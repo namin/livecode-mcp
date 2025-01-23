@@ -158,7 +158,7 @@ wheels = [
 ]
 
 [[package]]
-name = "io-livecode-ch-mcp"
+name = "livecode-mcp"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
